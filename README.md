@@ -1,2 +1,2 @@
 # chaos-monkey
-a local kubernetes cluster with you need to have VirtualBox running on your machine
+A local K8s cluster. You need to have VirtualBox running on your host machine
