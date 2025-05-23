@@ -1,2 +1,2 @@
 # chaos-monkey
-A local K8s cluster. You need to have hyper running on your host machine, Ansible, and  vagrant.
+A local K8s cluster. You need to have virtualbox running on your host machine, Ansible, and  vagrant.
